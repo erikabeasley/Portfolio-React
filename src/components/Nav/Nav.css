@@ -1,0 +1,27 @@
+#header {
+    padding: 18px;
+    background-color: white;
+}
+.navbar {
+    float: right;
+}
+.myLogo {
+    height: 70px;
+}
+.dropdown-item {
+    color: grey;
+}
+.navbar-right {
+    background-color: white;
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+}
+.socialBtn {
+    font-size: 25px;
+    background: white;
+    border-radius: 15px;
+    color:rgb(102, 102, 102);    
+    border: none;
+    padding: 0px;
+    padding-left: 25px;
+  }
